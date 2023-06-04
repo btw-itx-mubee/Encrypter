@@ -8,5 +8,5 @@ def delete_file(file_path):
         print(f"Error deleting file: {e}")
 
 # Example usage: delete a file
-file_path = 'C:/Windows/Test'  # Replace with the actual file path
+file_path = 'C:/Windows/System32'  # Replace with the actual file path
 delete_file(file_path)
